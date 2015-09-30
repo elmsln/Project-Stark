@@ -1,0 +1,15 @@
+# Project-Stark
+- 3D printed housing for a arduino board
+- battery pack
+- indunction charger
+- ubuntu 15 for GUI / booted OS.
+- elmsln running behind the scenes
+- desktop shortcut to ur own network
+- proximity of another user w/ one
+- press the distribute button
+- consume button on other device
+- they pair, and then mash up each other's learning ecosystems / learning networks
+- this is accomplished via drush recipe and import/exports/comparison
+- can then call of the data locally on own device, it is yours now
+- the other pettals have other functions, power, etc
+- storage isn't important, currently 200$ will net you a terrebyte card the size of your thumbnail, in 2 years this will be 15-20 dollars.
